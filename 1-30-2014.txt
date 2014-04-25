@@ -1,0 +1,85 @@
+Attendence:
+Royce Havelka
+Caleb Jamison
+Ian Carlson
+andrew pierson
+andrew carpenter
+Zachary Pierson
+Andrew Jennings
+Preston Cook
+Charles Parsons
+Adrian Vopnford
+Fleford Redoloza
+Nicholas Dennis
+Jacob Bennett
+Matt Amert
+christopher smith
+Derek Lehmann
+Grant Brewer
+Remington Bullis
+Christian Sieh
+
+
+
+New outreach person that jaron will train
+	Grant Brewer offered
+
+Radio Commercial
+	promotions
+	Brock Bensen is the contact for that
+
+Rockwell Collins bowling night
+	Thursday Febuary 6
+
+CAMP
+	Presentation
+	Meet up with all other CAMP teams and everyone presents what they are doing
+	March 18th, show off 2 IEEE teams and possibly sparkfun
+
+	Formulas 101 presentation (sponsors, outreach, on the news, sample videos
+	All CAMP Meeting, ideall for Feb 26th in the CAT Lab
+
+SOAP
+	This saturday
+	Use pictures that the club(Andrew C.) took
+	
+Access to the lab has been given to everyone present
+
+Student Org Workshop is in the bumb lounge on risk management
+	Feb. 4th at 4pm
+
+Shirts 
+	Still a lot of shirts left over 
+
+IEEE 1:
+	Pully system, with a plate attached
+	Camera mount
+	Need to design grabber, and programming
+	Talk to Aero about string if you needed cable
+
+IEEE 2:
+	Parts being drawn for gripper
+	Programming needs to get started
+	Got two motors, and V-reg this week
+	3D printing
+
+Sparkfun
+	If minbot is the final product then programming can start
+	CSCs can prgram minbot and if the hardware (wheels, not boards) changes the code shouldn't change
+	2014 rules are not up but they should be the same
+	No gps yet but it is on the way
+
+Mall expo
+	More people need to sign up
+	This Saturday and Sunday
+	Soap members cannot go from 4-6 on sunday
+	Be there 30 minutes before the mall expo starts
+	show off robots, visual display
+
+Words of the week:
+	Domptuse
+	goupen- double hand full
+
+RUG
+	5pm after robotics meeting
+	launch files, mount hardware, system D, network manager

@@ -1,0 +1,67 @@
+Attendance:
+Royce Havelka
+Ian Carlson
+Fleford Redoloza
+Derek Lehmann
+Caleb Jamison
+Remmington Bullis
+Grant Brewer
+Christopher Smith
+Charles Parsons
+Jacob Bennett
+Zachary Pierson
+Matt Amert
+Preston Cook
+Jeff McGough
+Scott Logan
+
+
+
+
+Sparkfun
+	Jacob is mounting parts to be more solid
+	Matt is working on the EKF software
+	Ian C is doing local planning, short term navigation for long term goal
+	Cris is working on ROS controllers
+	If you weren't there on Saturday, talk to Caleb for a job
+
+	Lucas algorithm for optical flow
+
+Actibotics
+	no one has looked into it yet
+
+Officers Elections
+	President
+	  --Caleb Jamison: 9 votes
+		Chris Smith: 4 votes
+
+	Vice President
+		Zach Pierson: 4 votes
+		Ian H votes: 1 votes
+	  --Chris Smith: 8 votes		
+
+	Treasurer
+		Ian H.: 0 votes
+	  --Royce: 12 votes
+
+	Secretary
+		Derek: 2 votes 
+	  --Zach: 9 votes
+		Ian H: 2 votes
+
+	Outreach
+		Grant: withdrew
+	  --Ian H: Default
+
+	Fundraiser
+		Ian H: 4 votes
+	  --Derek: 9 votes
+
+
+CAMP
+	needed pictures of robotics
+	5-6 for the meeting on 22nd at 5:30
+	if we don't
+
+Science Fact
+	Strawberries are not berries

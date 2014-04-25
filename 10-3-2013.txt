@@ -1,0 +1,75 @@
+Attendance
+
+Royce Havelka
+Brooke Padilla
+Preston Cook
+Caleb Jamison
+Matt Amert
+Grant Brewer
+Caleb Mueller
+Colin Suzuki
+jacob st.amand
+Charles Parsons
+Derek Lehmann
+Dylan Geyer
+Christian Sieh
+Dylan Payne
+andrew jennings
+Ian Hoffman
+Cole Conrad
+Tyler Ryther
+William Phelps
+Zachary Pierson
+Minda Carpenter
+Cody Clement
+Adrian Vopnford
+Colby Johnson*
+Fleford Redoloza
+Remington Bullis
+Nicholas Dennis
+WEston Silbaugh
+zachary owen
+
+
+
+
+Ian is Awal for CSC 150 grading
+
+Clean the lab. Pick up everything that is yours or general garbage
+
+Using ROS for both competition.
+	IEEE for the fact that vision is hard
+	Stay after meeting for a download VM ware Player and a small introduction
+
+This weekend. get people connected to the Createds (small white robots) for a ROS introduction
+
+3D printer club
+	on Tuesdays
+	overview of what it's all about
+	two groups, one for printing and one for designing
+	possibly get IEEE and/or Sparkfun robots may be printed
+	3d printer club may be housing in the lab for a little while since they dont have a regular meeting place
+
+This Saturday workday for IEEE robot
+	Mechanicals should start working a gripper for robot, preliminary designs
+		cole conrad, ford r, nicholas dennis, caleb mueller, grant brewer
+	software will work on open CV
+
+Blizzard warning for a while 
+
+Pumpkin Chunkin
+	got 3rd, in the green, $300 won, spent about $260 on parts for it.
+
+Word of the Week: Duplicitous - hypocrit, decietful 
+		  Bombastic - highly inflated, pretentious
+
+Camp Meeting
+	Borken into committies, workshops (not much interest), all camp meetings will be brought down to one per semester
+
+Lab Safety - on hold for now, Officers will build a plan with McGough
+
+Get advisor intrest back
+
+Learning python, after next meeting (by McGough)
+
+FRC is meeting this monday (oct 7) for the first time, they wont be on campus, we will try to help out

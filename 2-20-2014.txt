@@ -1,0 +1,89 @@
+Attendance:
+Ian Hoffman
+Grant BRewer
+Fleford Redoloza
+Preston Cook is a spazz
+Adrian Vopnford
+Nicholas Dennis
+Andrew Carpenter
+Derek Lehmann
+Brooke Padilla
+Charles Parsons
+Christopher Smith
+ian carlson
+
+
+
+
+
+
+
+
+Boy Scouts merrit badge
+	from 8am-4pm
+	march 8th
+	volunteer hours
+	still have power points from last year as a reference
+	Andrew is Merrit Badge Signer
+	
+CAMP
+	All Camp Meeting
+	Feb 26th, Wednesday, 5pm - 6:30pm
+	sign up to bring food
+	robotics should bring chips or fruits
+		voted on mini chip bags that we sell as consessions
+	unkown number of people, all teams are going
+	in CAT Lab
+	Possible short talk on what every team is doing
+		about 2-5 min
+	team building activities, CAMP team vs CAMP team
+
+IEEE team 1
+	Grabber works
+		up and down
+	camera mount works
+		see fire, then camera tilts forward for rest of competition
+	needs to be wired
+	ping sensors attached
+	This satuday should see a full functional robot for coding
+
+IEEE team 2
+	Made course
+	no mechanical progress
+	chips will be ordered
+
+Next thursday is last week of Feb.
+	Will be decided who goes to competition
+	Don't relax on mechanical progress
+	Every member needs to be registered IEEE member, $35 per person
+
+Sparkfun
+	Schedual for CSC need to meet up with Chris
+	Sparkfun rules have been released
+		same course, same rules, gps waypoints with file formats
+
+Still have Robotics shirts that need to be taken away
+
+Science of the week
+	chaccinate-Laugh loudly/hysterically
+	sum of natural numbers = -1/12
+		used in quantum mechanics
+	need a reference
+
+RUG
+	5pm
+	mechanum robot, the one can drive sideways
+	nodelets-uses shared memory
+		basics, how to use them, overview of internal design
+		possibly good for vision
+		written in C++
+
+Arthropod Count
+	7 boxelder bugs
+	a lot of ants
+	Derek won
+
+
+
+
+

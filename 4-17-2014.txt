@@ -1,0 +1,50 @@
+Attendence:
+Royce Havelka
+Charles Parsons
+Christopher Smith
+Remington Bullis
+Matt Amert
+Zachary Pierson
+Jacob Bennett
+Caleb Jamison
+Ian Carlson
+Derek
+
+
+Competition from Dolan and Alecia
+	we don't have access to all of our funds because we didn't go but charges were made
+	there is a freeze on the account
+	we need to payback out of pocket, but foundation should work instead
+	should still go to competition
+	Gave us a request for travel for sparkfun
+	Future note: try to find hotels that can be canceled
+	the request (permision from school) should have expected form and can be revised later
+
+Sparkfun
+	3 weeks, 2 weekends left of classes left
+	using vector flow field to get around the course
+	moving as fast as we can without rolling
+	Look at gethub for current plan of attack on software
+	3D printed the holding compartment on the chassie
+	need better way to get motor odometry, but it is low priority
+	main concern with navegation is having a dynamic map for obsticals but static walls we cannot see
+	
+CAMP
+	April 22nd is camp celebration
+	5:30 pm
+
+Visit Mines
+	26th we need the labs clean for tours
+	Main lab is to be clean and software organization
+	L3 lab for building and hardware development
+	3D printing is for strictly printing parts
+	have robot driving around by visit mines
+
+clean the lab before we leave for summer, try not to hoard parts
+
+BBQ
+	one year we had grill at canyon lake park
+	aim to do it for next semester and potentially for this semester
+	Potentially during finals week
+	
+

@@ -1,0 +1,78 @@
+Attendance:
+Royce Havelka
+caleb jamison
+IAn Carlson
+Christopher Smith
+Zachary Pierson
+jacob Bennett
+William Phelps
+leif Torgersen
+grant Brewer
+Ian Hoffman
+Christian Sieh
+Matthew Amert
+Charles Parsons
+Adrian Vopnford
+Andrew Jennings
+Fleford Redoloza
+
+
+
+Last meeting of the semester
+
+IEEE team 1
+	ME- caster wheel, base, few things left to cut
+	CSC - Simulator stuff in ROS
+	EE - contact Toll about PCB milling machine
+
+	main focus is the arm, there are plans for building it
+
+IEEE team 2
+	ME - Arm came in, attaching sensors, designing a new gripper
+		possible part from McGoughf
+	CSC - ROS stuff, there are drivers already for the arm
+	EE - nothing to report
+
+	main focus is the arm and vision is after
+
+Sparkfun
+	Nothing to report
+
+Shirts
+	They are finished
+
+FLL
+	competition is this weekend
+	training session for judges
+	9am until 
+	list:
+		Justing Drake - not present
+		Jaron
+		Ian Carlson
+		Cole 
+		Nick Dennis
+		Charles Parson
+		Preston
+		Will 
+		Zach
+		Ian
+	Meeting in Heiseger Room from 6-7:30pm on Dec. 5th
+	
+SOAP
+	Aplication due on the 10th
+		good for people who want to be officers next year
+
+Hobby Expo
+	in February
+	would like to have robots moving around at it
+
+CAMP
+	ALL CAMP MEETING - each team doing a detailed presentation, design presentation
+	Skype meeting with CEO from NEXUS 22nd of Janruary
+	topics for discussion.
+	assertiveness, conflic resolution seminar
+		more reasonable situations/simulations
+	
+Words of the week
+	strikhedonia - pleasure of saying "To hell with it", fitting for hell week
+	Farctate - State of being stuffed with food, fitting for holidays

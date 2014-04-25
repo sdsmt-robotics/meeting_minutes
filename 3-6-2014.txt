@@ -1,0 +1,72 @@
+Attendence:
+Royce Havelka
+Preston Cook
+Grant Brewer
+Remington Bullis
+Derek Lehmann
+Jacob Bennett
+Matt Amert
+Zachary Pierson
+Charles Parsons
+Christopher Smith
+Caleb Jamison
+
+
+
+
+
+
+
+IEEE team 1
+	knect mount and wheels then mechanically done
+	EE is unknown, parts coming in
+	ROS being learned
+
+IEEE team 2
+	Caster is replaced
+	mechanically and electrically complete
+	arm being moved over serial
+	Register ASAP
+
+
+
+IEEE competition
+	takes money
+	R5 conferences and register
+	IEEE member to apply
+	IEEE teams register; If teams go then they are reimbursed
+	If robots are not mechanically done by next week they are pulled absolutely
+	** price is 160 to compete with hotel reservation
+	Semester is not over, do work as soon as possible
+	Reciets for registration
+
+Career Launch
+	tonight
+	make a powerpoint
+	CSC, IE, MATH, ME, EE, CENG, GEO E?, CAMP teams
+	go to college, go mines, become an engineer
+	CB 206
+	meet over here 6:45, starts at 7pm
+	8 minutes per person
+	come over to the lab
+
+Boyscouts
+	chris, andrew C, caleb, ian C
+	8am saturday
+
+Labs have been left open
+	close the lab when you leave
+	batteries and camera have gone away
+
+Sparkfun
+	nothing to report
+
+Science Fact
+	Micromort- probability you will die in a given year
+
+RUG
+	Installing ros from rpm's
+	up to date version of ros
+	
+CAMP
+	register for a supper on april 22nd

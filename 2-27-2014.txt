@@ -1,0 +1,73 @@
+Attendance:
+Royce Havelka
+Caleb Jamison
+Brooke Padilla
+Nicholas Dennis
+Jacob Bennett
+Matt Amert
+Grant Brewer
+Derek Lehmann
+Zachary Pierson
+Remignton Bullis
+Andrew Jennings
+Ian Carlson
+Charles Parsons
+Christopher Smith
+
+
+
+Career Launch, 7pm next thursday
+	presentation
+	talk to them about robots, college degree, school of mines
+		representatives of each different majors and why it is the best
+	chris(CSC), royce(IE/MATh), preston(ME), rem(EE), derek(EE), ian C(CENG), ford(Geo E)
+	meet after meeting
+	
+Boy Scouts
+	build kits
+	not much prep besides presentation
+	meet at 7:45
+	next saturday
+	andrew, caleb, chris, ian c
+	can show up for half of it if you need to
+
+CAMP
+	talking on the 18th
+	10-20 min
+	different projects we are doing
+	in Dolan's portch
+	minbot, smp, mechanum, IEEE robots
+	
+IEEE 1
+	mechanically done
+	circuit similar to team 2
+	change ping to possibly ir or possibly kenect
+	rc by next meeting
+
+IEEE 2
+	need motor conroller
+	v-regs are in
+
+course
+	painted, backdrop
+	can buy oil rigs from IEEE for $20
+	
+sparkfun
+	pixie driver
+	cmake config
+
+shirts
+	buy some
+
+Science of the week
+	omanytes can grow to 7' diameter
+
+website is good to go
+	if grant needs help, contact jaron
+	robotocs.org
+
+
+
+
+
+

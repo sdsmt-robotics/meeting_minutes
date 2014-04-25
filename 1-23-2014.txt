@@ -1,0 +1,82 @@
+Attendance:
+Caleb Jamison
+Royce Havelka
+Zachary Pierson
+Andrew Jennings
+Adrian Vopnford
+Dylan Geyer
+Preston Cook
+Grant Brewer
+Fleford Redoloza
+Remington Bullis
+Derek Lehmann
+Matt Amert
+Leif Torgersen
+Jacob Bennett
+Nicholas Dennis
+Jaron Boerner-Mercier
+Brooke Padillla
+Christopher Smith
+Charles Parsons
+
+
+
+No one is leaving who has an officer position
+	So knowledge isn't lost
+	Don't try to let people be in a position for 2 concecutive years
+	
+Mall expo
+	Is next Saturday and sunday (1st and 2nd)
+	Need volunteers to sign up on google docs
+	Try to get an even spread of everyone having 2 hour blocks
+	bring TV (smp doing point cloud, edge detection, etc), blue bot, sparkfun prototype
+
+Soap Presentations
+	5pm on saturday the 1st
+	Show them our projects, pictures, what our community impact is
+	5-10 min
+
+Get shirt, drop 10 into cash box
+
+CAMP
+	video on creativity
+
+If we do not have fully functioning robots by end of Feb, otherwise the robot may be scrapped
+
+Course should be built
+
+IEEE team 2
+	It moves, moveable over serial, does not light on fire
+	Sensors are in planning stage 
+	meet at 6pm
+
+IEEE team 1
+	Base is done
+	mostly an empty shell
+
+Sparkfun
+
+	4 months
+	7 members are purely sparkfun and 3 for both
+	Competition is June 21
+	Get working on it quickly
+	End of feb, designed mechanically and physically built
+	end of march, autonomy
+	end of april, logic implemented
+	Prototype is about as fast as we can go, prototype may become final robot if not extremely simmilar
+	impact resistant
+
+Card access to new members should be given to new members
+
+
+Word of the week
+	Slubberdegullion - slobbering filthy person
+	Scolecophagous - Worm eater (insult)
+
+RUG starts at 5pm on Thursdays
+	Talk to Scott about being on an email list
+	
+Installfest for fedora 20 is on saturday
+	easy to get ros compiled natively on fedora 20 (ros hydro)
+
+Cleanliness in lab is very important. Need to have room for 3 different teams

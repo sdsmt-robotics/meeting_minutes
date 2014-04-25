@@ -1,0 +1,79 @@
+Attendance:
+Royce Havelka
+Zachary Pierson
+Ian Carlson
+Jacob Bennet
+Fleford Redoloza
+Christian Sieh
+Derek Lehmann
+Remington Bullis
+Grant Brewer
+Ian Hoffman
+Andrew Carpenter
+Preston Cook
+Charles Parsons
+
+
+
+Carreer launch
+	march 6th, 7pm
+	Last group
+	videos of robots
+	different majors
+	join teams
+	talk more at a later time
+
+Accounts
+	Foundation: SDSMT holds that, manages it, rolls over each year
+		echo star, digikey, raven
+	SOAP: Use it or Lose it, currently have 4,000 dollars
+		use for travel and robot pieces
+		where we first pull from here
+	NASA Space Grant Funds: McGough distributes it
+		uav, robotics, lunabotics, 3d printing club
+		McGough wants it for infastructural items (oscopes, equipment)
+		ideas should go through Ian, Adam, Caleb, and/or McGough
+
+Engineering and Science day
+	Thursday Feb 20, 9am-12pm
+	Volunteer hours
+	Contact Jade Hurman with a vailability
+	Email by tomorrow
+
+CAMP
+	Centered around HPV
+	All CAMP meeting, on the 26th
+	Teams talk about themselves
+
+Timeline for IEEE is getting down to the wire
+Possibly combine teams
+Need a course to work on
+If nothing changes in a week, combining teams will be a main priority
+Collaboration on code
+
+IEEE Team 1
+	built parts that are to be mounted
+	designed all parts for the grabber
+	Still need a camera
+	
+IEEE team 2
+	Arm is improved, rotates on axis instead of orbits
+	grabber may be changed
+	
+Sparkfun
+	give chris your email for meeting days
+	for CSC
+	Mech and Ceng should talk t caleb
+
+Word of the Week
+	Faineant- Lazy, irresponsible idler
+
+Science Fact
+	Polar Bears are nearly undetectable by infared cameras due to their insulated fur
+
+RUG
+	5pm
+	topic is computation graphs
+	
+Experience in writing a web page
+	contact Joe Lillo who is part of the UAV Team

@@ -1,0 +1,113 @@
+Attendence:
+Royce Havelka
+Dylan Geyer
+Andrew Jennings
+Charles Parsons
+Tyler Ryther
+Justin Drake
+Brooke Padilla
+Adrian Vopnford
+Derek Lehmann
+Remington Bullis
+Ian Hoffman
+Caleb Mueller
+William Phelps
+Jacob Bennett
+Matt Amert
+Nicholas Dennis
+Christian Sieh
+John Brink
+Preston Cook
+Ian Carlson
+Christopher Smith
+Fleford Redoloza
+Caleb Jamison
+Dylan T Payne
+Lynda Goldsmith
+Grant Brewer
+jacob st.amand
+Minda Carpenter
+
+
+Meeting Minutes
+
+Moving the two stationary tables in th back table.  Working with UAV to get rid of those
+	More information to come after we have collabirated with UAV
+
+IEEE
+	forming teams (18 interested)
+	Need captain, software, mechanical, etc.
+	Can only have 3-5 persons per IEEE team plus maybe an advisor
+
+	Thinking about 2 teams
+		Team 1: 
+	mech	Nicholas D, 
+		*Jacob B, 
+		Will P, 
+	EE	*Dyllan P, 
+		*Fleford R, 
+	soft	John B, 
+		*Christian S, 
+		Matt A, 
+		Zack P 
+		Dylan G
+		
+		
+
+		Team 2: 
+	mech	*Royce H.
+		Lynda G, 
+		Caleb M, 
+		Grant B, 
+	EE	Remmington, 
+		Derrick L, 
+		*Andrew J
+	soft	Ian H
+		*Charles P
+		Andrew C		
+
+	On April 5th in Texas (less hands went up)
+	taking two vans
+	We need to start setting up software for the teams
+
+Sparkfun
+	Encourage both competitions
+	
+	Team:
+	mech	*Nick D
+		Jacob B
+		Caleb M
+	EE	*Caleb the vice president
+		Andrew J
+		Adrian
+		Justin
+		Prestion
+	CSC	Zack P
+		Andrew P
+		Charles P
+		Tyler R
+		Brook
+		Ian H
+		Dylan
+		Jacob S
+		Ian C
+		*Chris S
+		Grant
+		Christian
+	 
+
+Python introduction
+Intro to robotics 12pm MWF
+Putting names under pictures for 
+Word of the week: Preposterous
+Help with ROS or python after the meeting
+
+
+
+
+EMail for ieee team 2
+Royce.havelka@
+Caleb.mueller
+Lynda.Goldsmith
+Ian Hoffman
+Charles Parsons

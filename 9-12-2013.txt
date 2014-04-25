@@ -1,0 +1,72 @@
+			9/12/2013
+
+
+Royce Havelka
+Caleb Jamison
+andrew pierson
+Dalton Simmerman
+Caleb Mueller
+Matt Amert
+Dylan Geyer
+Colby Johnson
+Christian Sieh
+William Phelps
+josh schweigert
+Fleford Redoloza
+Remington Bullis
+Aaron Spies
+Zac Christy
+Joseph Mettler
+Cody Clement
+Weston Silbaugh
+Leif Torgersen
+Derek Lehmann
+Colin Suzuki
+Jacob Bennett
+Brock Benson
+Adrian Vopnford
+Preston Cook
+Charles Parsons
+Zachary Pierson
+Andrew Pierson
+Ian Carlson
+Andrew jennings
+Chris Smith
+
+
+
+****Pumpkin Chunkin
+considering making it out of metal instead of wood
+list, people who are interested:
+derek layman, colon suzuki, jacob bennitt, grant brewer, Zach Pierson, Christian sieh, remmington bullis, leif torgenson, ian haffmon, caleb meuler, caleb Jamison, chris smith, mathew amert
+
+
+****CAMP
+Introduction about what camp is
+Meetings, Tuesdays at 11:00pm
+people who are interested: Preston, Charles, Bocks, Caleb Mueller
+
+Preston's word of the week: EXORBITANT
+
+SUPERROBOFRESHMANTIME
+Saturday
+
+Not rules for competitions yet, going to wait until after punpkin chunkin and run before looking into it
+
+Demobot - Ideas, using the hungry house, different ways to upgrade it (wheels, different code, etc. )
+
+Different fields:
+
+	Mechanical - 14		solid works on hungry house				
+
+	Electrical - 21 		board for hungry house
+
+	Software - 22		writing code for arduino and seeeduino
+
+
+
+IEEE Nights, 
+Meetings on Tuesdsays in EEP 252 at 5pm and Wednesday in EEP 336 at 7pm
+
+Programming Team Wednesday at 4pm
+work on teams of 3, 2 hours to solve computing problems, in room 213 OP Lab

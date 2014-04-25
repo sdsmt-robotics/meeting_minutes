@@ -1,0 +1,37 @@
+Attendance:
+Royce Havelka
+Dylan T Payne
+Zachary Pierson
+Ian Hoffman
+Matt Amert
+Grant Brewer
+Jacob Bennett
+Fleford	Redoloza
+Charles Parsons
+Caleb Jamison
+Christopher Smith
+Ian Carlson
+
+
+IEEE competition
+	ian, charles, derek, rem
+	van needs to get ready
+	hotel is booked
+
+IEEE robot
+	lidar is working, make a map
+	can move, need to change back wheels
+	need to finish vision, arm, state machine
+	batteries need to be ordered, today
+	Competition is priority for the next week
+	
+
+CAMP
+	Camp Celebration
+		students were going to talk about camp, camp 2.0, and inovation center
+		Need sponsors list and RSVP
+		Put on by president
+		Free Food
+		5:30 - 7 on April 22nd
+		Let Ian know for people to RSVP
+		Present awards (2 fun, 2 serious) to members

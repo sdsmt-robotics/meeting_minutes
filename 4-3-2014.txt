@@ -1,0 +1,96 @@
+Attendance:
+Royce Havelka
+Zachary Pierson
+Christopher Smith
+Charles Parsons
+Ian Hoffman
+Andrew Carpenter
+Remington Bullis
+Grant Brewer
+Jacob Bennett
+Matt Amert
+Fleford Redoloza
+Caleb Jamison
+Ian Carlson
+
+
+
+
+
+IEEE
+	Navigation meltdown, unable to navigate course
+	No point to compete, so we cut the cost
+	everything needs to be canceled to save money
+
+Refocus on Sparkfun
+	End of April, there is finals, prjects, Scott leaves
+	Need to focus on it before everyone is bogged down
+
+SOAP
+	talk to SOAP, give optoins: Nitrus tap or Competition
+
+Servo City - Actobotics
+	Future investments	
+	Try to use Actobotics and 3D printing for future competitions
+	Kind of like erector sets that are heavy enough to compete
+	T-slot solutions that aren't as bulky, plus accesories
+	Give a solution about these parts by the end of the month
+	
+McGough
+	Housecleaning the 3 labs full of stuff
+	suggestions on things to be used
+	
+CAMP
+	Presentors didn't show up
+	If not using travel money, give it back
+	Pictures and videos from competitions
+
+Storrage
+	Using gethub
+	store pictures, files, etc
+	2 years worth of private repositories, under students
+	bronze membership is $300
+	Cancel website, if we can
+	Use wike for doccumentation
+
+Nominations
+	President:
+		Caleb
+		Chris
+
+	Vice President:
+		Matt
+		Zach
+
+	Treasurer:
+		Ian Hoffman
+		Zach
+		Chris
+		Royce
+
+	Fundraiser:
+		Rem
+		Ian Hoffman
+
+	Outreach/Promotions:
+		Grant
+
+	Secretary:	
+		Royce
+		Matt
+		Derek
+		Ian H
+
+Sparkfun
+	lacks mechanically is odometry, especially on rear wheels
+	threading tasks, need to formalize
+	optical encoder system, mounting could potentially be a problem
+	is currently rear wheel drive
+	need an encoder some
+
+	Hesitant to put into sub teams
+	List of people that are part of different efforts on the robot
+	Repo for each task that needs to be done that people can grab or assign
+	If interested, make a gethub account and give it to Caleb Jamison
+
+Also we should use Business Cards

@@ -1,0 +1,102 @@
+Attendance:
+Chris Smith
+Preston Cook
+Fleford Redoloza
+Zachary Pireson
+Adrian Vopnford
+Nicholas Dennis
+Charles Parsons
+Christian Sieh
+kendall schmalz
+Andrew Carpenter
+Derek Lehmann
+Jacob Bennett
+Jaron Boerner-Mercier
+Matt Amert
+Grant BRewer
+Ian Hoffman
+Remington Bullis
+
+
+
+
+
+
+
+CAMP
+	Wednesday January 22nd , CB 204W 5-6pm
+	ME talking about his path to where he is currently over skype
+	NEXUS - go to the incubator (business development center) to talk to members about it
+	CAMP members on the team can still go on tuesdays at 11pm
+	"Lie to me" is a show that is about body language
+	Technical presentations are encouraged
+
+Spring org fair
+	More people working booths than people walking through
+
+Shirts
+	Robotics has extra shirts and their size. 
+	10 dollars per shirt.
+	
+Rockwell Collins
+	An aviation company that team members can look into
+	Asked that the Robotics team would go to a networking event
+		Bowling, there are prizes
+		February 6th, 9-10:30pm
+	Rockwell is a past sponsor
+
+Boyscouts
+	Robotics Marrit Badge
+	Saturday March 8th (first day of spring break)
+	Help them build kits from 8-11:30 then 12:30-4
+	In classroom Building, more inforamtion to come
+
+Lab Access
+	jacob Bennett
+	William Phelps
+	leif Torgersen
+	grant Brewer
+	Ian Hoffman
+	Matthew Amert
+	Charles Parsons
+	Adrian Vopnford
+	Andrew Jennings
+	Remmington Bullis
+	Darek Lehmann
+
+	To labs 111 and 113
+
+Competition is at the beginning of April
+Structurally complete with RC control by end of February
+
+IEEE 1
+	At the point of needing to get something cut
+	arm setup will be soon
+	
+IEEE 2 
+	didn't get a servo that was expected to come in
+	Make a new gripper (3d print)
+	camera
+	Matt got a makerbot
+
+Sparkfun
+	went to Who's Hobby and a guy suggested 
+		electric rather than gas
+		4 wheel drive	
+		prototype is working correctly and CSCs can use it
+
+Do ROS and Python tutorials
+Linux installfest on 25th
+	fedora 19, maybe 20
+
+Black Hills Hobby Expo
+	Jan 18th from 10am-4pm
+	demo turtle bots, IEEE robots, Sparkfun prototype, AR Drones
+	Chris, Caleb, Ian H, Rem, Royce
+	
+SOAP Presentation
+	Saturday Feb 1st
+
+Words of the week
+	Agelast - someone who never laughs
+	Bartrachophagous - person who eats frogs

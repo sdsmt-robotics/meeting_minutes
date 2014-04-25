@@ -1,0 +1,80 @@
+Attendance:
+Royce Havelka
+Andrew Jennings
+Adrian Vopnford
+Charles Parsons
+Zachary Pierson
+Christian Sieh
+Dylan Geyer
+Caleb Mueller
+Cole Conrad
+Grant Brewer
+Ian Hoffman
+Derek Lehmann
+colter assman :)
+Nicholas Dennis
+Jacob Bennett
+Matt Amert
+Scott Logan
+Christopher Smith
+Preston Cook
+Ian Carlson
+Brooke Padilla
+Caleb Jamison
+Minda Carpenter
+William Phelps
+Lynda Goldsmith
+
+
+
+
+
+
+Tuesday 5pm.
+	refreshmants will be provided
+	about officer duities such as reimbursement, setting up travel details, etc.
+	
+
+Free robotics tshirt
+
+Hygene is a big issue on the robotics team, as stated by Dr McGough
+	we represend the Robotics team and the department
+
+IEEE
+	Team 1
+	Mech - chassie is done, change wheels and internals, arm has a design
+	EE - working with Mech
+	CSC - Learning ROS
+	
+	Team 2
+	CSC - Learning ROS
+	MECH/EE - Working on arm
+
+	Sparkfun
+	MECH - looked at engines and chassie material
+	EE - not electrically complicated, may build a brushless motor controler
+	CSC - nothing much happened
+
+Odroids are done
+	Need a backup battery, may get ours with UAV since they getter
+
+ASUS
+	may use Live and webcam
+	for sparkfun we may use cameras that we already have
+
+Arthropod champion
+	slain: 15
+	winner: spider with 6
+
+work of the week:
+	Capernoited - slightly intoxicated
+	exsibilation - The collective hisses of a disapproving audience
+	
+CAMP Meeting
+	none this week. doing every other week. 
+
+5 weekends left until end of the semester
+
+McGough was busy so there is no python training this week
+	will talk about PiSi some time which is like matlab. may replace c++ coding on the robot
+

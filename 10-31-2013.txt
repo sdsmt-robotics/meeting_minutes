@@ -1,0 +1,90 @@
+Attendance:
+Royce Havelka
+Ian Hoffman
+Remington Bullis
+Grant Brewer
+William Phelps
+Cole Conrad
+Matt Amert
+Nicholas Dennis
+Charles Parsons
+Christian Sieh
+Andrew Jennings
+Caleb Mueller
+Minda Carpenter
+Andrew Carpenter
+Caleb Jamison
+Fleford Redoloza
+Brooke Padilla
+John Brink
+Preston Cook
+jacob st.amand
+jacob bennett
+
+
+
+
+Everyone sign up for polo?
+	if not ask jaron
+
+FLL
+	Saturday at 9 - 11am is a presentation
+	Room: CB 204E/W
+	4pm on friday is starting to prepare the presentation
+	people interested: 8 people planning to atend 
+	Lego minestrom software
+
+IEEE
+
+	5 weekends left for working
+	Odroids are in
+	2 Asus need to be ordered.
+
+	robots need to be completed soon
+	odroids will be ready soon, proper kernel and ROS software
+	Irobots creates(ask mcg) possibly get that
+
+	Team 1: updates
+	  meeting at Tuesday 6pm
+	ME - Design, non saturday
+		working on two designs, both are fairly done but drive system and camera 
+	EE - Nothing, waiting on design, need motors and such
+	CSC - Learning ROS
+	
+
+	Team 2: updates
+	   Meeting at Monday at 6pm
+	ME - constantly working on design, have chassie, wheels, talked about sensors, arm 
+	EE - Sensors and motor controlers
+	CSC - Looking at ROS
+
+Sparkfun
+	
+	12 on tuesdays for EE
+	4pm Wednesday for MECH
+	ME - nothing to report
+	EE - Prototype robot 
+	CSC - working on ROS
+
+Website
+	joaron possibly has a domain on godaddy
+	Host all of our information at about 6 dollars a month
+
+Word of the week
+	Tarradiddle - little white lie, nonesense
+
+Dead Arthropod count (arthrocide)
+	Total: 19
+	Winnder: Royce with 8
+
+Visit Mines Day
+	Nov 9th
+	Clean lab
+
+CAMP Meeting
+	outlined the presentation for emotional intelligence
+	Nov 12 is a dry run through
+	During the all camp meeting we will be presentation
+	Preston had a low happiness rating
+	ALL CAMP Meeting is going to be either late november or early december
+

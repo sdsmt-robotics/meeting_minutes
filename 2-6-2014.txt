@@ -1,0 +1,65 @@
+Attendence:
+Royce Havelka
+Preston Cook
+Matt Amert
+Grant Brewer
+Nicholas Dennis
+Jacob Bennett
+William Phelps
+Caleb Jamison
+Andrew Jennings
+Charles Parsons
+Derek Lehmann
+Remington Bullis
+Zachary Pierson
+Christopher Smith
+Brooke Padilla
+Fleford Redoloza
+
+
+
+
+
+Rockwell Collins
+	Tonight at 9pm at Robinsdale Bowling Alley
+	meet at robotics lab at 8:30 for car pooling
+	Robotics Polos
+
+Career Launch
+	talk to juniors and seniors about engineering and sciences
+	group of around 15-18 people
+	10-15 minutes, with power point
+	march 6th
+	interest: chris, royce, rem, preston, derek
+
+CAMP
+	TedTalks - body language, empowering yourself
+
+IEEE team 1
+	ordered new parts
+	no significant changes
+	grabber should be done soon
+	csc haven't gotten much done
+	camera is coming in
+
+IEEE team 2
+	Servo arrived
+	Access to quality 3D printer
+		Tolle's (callibration is messed up)
+		ITS has a makerbot
+		Matt's Dad
+	mounted boards top inside the chassie
+	Ian has started with ROS, driver problems
+
+Need RC by the end of Feb for both teams, otherwise registration will be pulled
+
+Sparkfun
+	Meetings tues and thurs and sat
+	
+words of the week
+	vesthibinition - flirtacious displays of women's undergarments
+	cleptobiosis - People who plunder food, or take food without paying or thinking
+
+ROS install has been emailed
+RUG is just a workday today
+

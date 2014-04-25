@@ -1,0 +1,67 @@
+Attendance:
+Royce Havelka
+Matt Amert
+andrew jennings
+William Phelps
+Christian Sieh
+Dylan Geyer
+Leif Torgersen
+Grant Brewer
+Remington Bullis
+Ian Hoffman
+Charles Parsons
+Minda Carpenter
+Andrew Carpenter
+zachary pierson
+caleb jamison
+Brooke Padilla
+Andrew Pierson
+Nicholas Dennis
+Christopher Smith
+Derek Lehmann
+Ian Carlson
+
+
+RUG
+	info session at 5pm on Thursdays
+	CSC students should go
+	Different topics
+
+CAMP Meeting
+	Work Presentation on assertiveness
+	recognizing passive/agressive
+	ALL CAMP MEETING not this semester
+
+Word of the Week
+	Coreidae - order of bugs that are like box elder bugs
+	Rhopalidae - Bugs like box elder bugs but not the same order
+	Lalochezia - using vulgur to relieve pain or stress
+
+SOAP
+	We can get more funding without having a proper budget
+	Does not mean we will get the funding
+	Budget Proposals are due by Dec 10th
+
+Student organization
+	need to sign forms
+
+Close doors when no one is in the lab
+	If someone is not on robotics or UAV is in the room without anyone else then encourage them to leave
+	This is not a hangout site
+	batteries and camera are still missing
+
+IEEE Team 1
+	grippers are in
+	Buying parts and possibly 3d printing parts
+	Possible new chassie
+	Using ROS Simulator
+
+IEEE Team 2
+	Starting making the course
+	
+
+Sparkfun
+	Ordering RC car - any flaws could be improved
+		Go to WHOs Hobby
+	Using ROS
+	Brushless motors research

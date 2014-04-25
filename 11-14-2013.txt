@@ -1,0 +1,85 @@
+Attendence
+Royce Havelka
+Jacob Bennett
+cole conrad
+William Phelps
+Nicholas Dennis
+Christian Sieh
+Charles Parsons
+Remington Bullis
+Ian Hoffman
+Derek Lehmann
+Grant Brewer
+Matt Amert
+Adrian Vopnford
+Minda Carpenter
+Andrew Carpenter
+Preston Cook
+Andrew Jennings
+Christopher Smith
+Caleb Jamison
+Ian Carlson
+Fleford Redoloza
+Brooke Padilla
+
+
+ROS Users Group (RUG)
+	Learning how to use ROS
+	5mp Tursdays
+
+FLL
+	There is the second meeting for FLL on Saturday 9pm-11pm
+	more advanced topicsf
+		functions
+		variables if we can
+	Using the older kits
+
+SOAP Fundraiser Workshop
+	This Monday and Thursdays, 5pm both days
+	Presentations on Late January, early Feb
+	Bump Lounge
+
+Chris's Camera
+	It has been missing
+	Red Digital Camera
+	Noticed missing for a week
+
+3 Lipo Batteries are missing from UAV
+	If noticed the report
+
+IEEE Team 1
+	Design for the grabber is done
+	Hubs for wheels are in
+	need parts ordered
+	Should be built on Saturday if not Tuesdays
+	Camera Mount, With an ASUS
+
+IEEE Team 2
+	Nothing major to report
+
+Sparkfun
+	Design plan, rough sketch
+	More on design will come later
+	Engine is being worked around
+	2ft long by 1.5ft wide
+	Possible buying RC car instead of making one
+	around $1500 for competition
+	Brushless motor controler possibly
+	Learning ROS
+
+CAMP
+	Presentation on sponsors
+	Advice on getting sponsors
+	Possibly no All CAMP Meeting
+	Possibly go back to one per week
+
+Shirts
+	Ordering them soon
+	Possibly getting them in two weeks
+	2 extra shirts of each size
+
+Word of the week
+	Bromidrosis- Strong smelling persperation
+	Jumentous - smells like hourse urine
+	Pimentaco - ???
+
