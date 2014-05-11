@@ -1,0 +1,31 @@
+Attendance:
+Royce Havelka
+Mat Amert
+Derek Lehmann
+Christopher Smith
+Grant Brewer
+Ian Hoffman
+Caleb Jamison
+Ian Carlson
+Zachary Pierson
+Jacob Bennett
+
+
+Build Robot
+
+Pass finals
+
+Sparkfun
+	need GPS Driver, mapping, Ian's vector field
+	people thinking about going to competition:
+		Ian Hoffman
+		jacob Bennett
+		ian Carlson
+		Zach Pierson
+		Caleb Jamison
+
+SOAP
+	we can still buy things with our soap money before the end of the semester
+	odroids, drillpress, other equipment
+
+Robotics should buy a roll of filliment for Printing Club
